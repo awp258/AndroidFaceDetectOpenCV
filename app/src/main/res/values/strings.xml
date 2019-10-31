@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo3</string>
+    <string name="faces_detects">find faces: %d</string>
+</resources>
